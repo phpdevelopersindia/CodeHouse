@@ -21,6 +21,18 @@ Getting started instructions: [http://git-scm.com/book/en/Getting-Started-Git-Ba
 An excellent interactive tutorial is available here: [Try Git][try]
 [try]: http://try.github.com/levels/1/challenges/1
 
+
+Other Starter Guides/ Tutorials
+-------------------------------
+
+* https://help.github.com/categories/63/articles
+* http://www.codeschool.com/courses/try-git
+* http://learn.github.com/p/intro.html
+* http://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html
+* https://tutsplus.com/course/git-essentials/
+
+
+
 Create a Github account
 ------------------------
 
