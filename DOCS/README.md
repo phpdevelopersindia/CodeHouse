@@ -1,7 +1,8 @@
 Getting Involved
 ================
 
-Welcome to PHP Developers India CodeHouse Github repository.
+Welcome to [PHP Developers India][pdvlin] CodeHouse Github repository.
+[pdvlin]: http://www.facebook.com/groups/pdvlin
 
 In order to collaborate, please, read the following guide.
 
