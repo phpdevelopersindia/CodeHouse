@@ -69,7 +69,7 @@ Go to CodeHouse [https://github.com/phpdevelopersindia/CodeHouse][codehouse] and
 [codehouse]: https://github.com/phpdevelopersindia/CodeHouse
 
 ![watch_codehouse][watch]
-[watch]: https://raw.github.com/pontikis/CodeHouse/master/DOCS/watch_codehouse.png
+[watch]: https://raw.github.com/phpdevelopersindia/CodeHouse/master/DOCS/watch_codehouse.png
 
 
 Clone forked repository
@@ -90,7 +90,7 @@ you will get something like:
     origin	git@github.com:pontikis/CodeHouse.git (fetch)
     origin	git@github.com:pontikis/CodeHouse.git (push)
 
-In order to be able to get source repository contents (not only the forked one), add a remote point to the original repository, as follows:
+In order to be able to get source repository contents (not only the forked one), add a remote, points to the original repository, as follows:
 
     git remote add upstream git@github.com:phpdevelopersindia/CodeHouse.git
 
@@ -102,8 +102,8 @@ Now, giving the following command:
 
 you will get something like:
 
-    origin	git@github.com:pontikis/CodeHouse.git (fetch)
-    origin	git@github.com:pontikis/CodeHouse.git (push)
+    origin	git@github.com:YOUR_USERNAME_HERE/CodeHouse.git (fetch)
+    origin	git@github.com:YOUR_USERNAME_HERE/CodeHouse.git (push)
     upstream	git@github.com:phpdevelopersindia/CodeHouse.git (fetch)
     upstream	git@github.com:phpdevelopersindia/CodeHouse.git (push)
 
@@ -113,6 +113,7 @@ Please, note that "origin" is the forked repository (YOUR_USERNAME/CodeHouse) an
 Update original repository
 --------------------------
 
+In order to get the contents of the original repository to your hard disk:
 
     cd /path/to/your/projects/CodeHouse
     git fetch upstream
@@ -136,24 +137,24 @@ Pull request
 Go to forked repository and press the Pull request button:
 
 ![pull_request_btn][pr_btn]
-[pr_btn]: https://raw.github.com/pontikis/CodeHouse/master/DOCS/pull_request_button.png
+[pr_btn]: https://raw.github.com/phpdevelopersindia/CodeHouse/master/DOCS/pull_request_button.png
 
 Then submit your request:
 
 ![pull_request_submit][pr_submit]
-[pr_submit]: https://raw.github.com/pontikis/CodeHouse/master/DOCS/pull_request_submit.png
+[pr_submit]: https://raw.github.com/phpdevelopersindia/CodeHouse/master/DOCS/pull_request_submit.png
 
 Then, just wait for acceptance of your request from repository owner:
 
 Repository owner can see pull requests as follows:
 
 ![pull_request_admin][pr_admin]
-[pr_admin]: https://raw.github.com/pontikis/CodeHouse/master/DOCS/pull_request_admin.png
+[pr_admin]: https://raw.github.com/phpdevelopersindia/CodeHouse/master/DOCS/pull_request_admin.png
 
 and can accept a request:
 
 ![pull_request_submit][pr_accept]
-[pr_accept]: https://raw.github.com/pontikis/CodeHouse/master/DOCS/pull_request_accept.png
+[pr_accept]: https://raw.github.com/phpdevelopersindia/CodeHouse/master/DOCS/pull_request_accept.png
 
 Afterwards, your changes are available to original repository.
 
