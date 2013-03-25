@@ -1,25 +1,23 @@
 Getting Involved
 ================
 
-Welcome to PHP Developers India CodeBase Github repository.
+Welcome to PHP Developers India CodeHouse Github repository.
 
 In order to collaborate, please, read the following guide.
 
 Setup git
 ---------
 
-Git[git] is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+[Git][git] is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 [git]: http://git-scm.com
 
-You can easily setup git in any operating system. Detailed instructions you can find here:
-
-http://git-scm.com/downloads[setup]
+You can easily setup git in any operating system. Detailed instructions you can find here: [http://git-scm.com/downloads][setup]
 [setup]: http://git-scm.com/downloads
 
-Getting started instructions: http://git-scm.com/book/en/Getting-Started-Git-Basics[start]
+Getting started instructions: [http://git-scm.com/book/en/Getting-Started-Git-Basics][start]
 [start]: http://git-scm.com/book/en/Getting-Started-Git-Basics
 
-An excellent interactive tutorial is available here: Try Git[try]
+An excellent interactive tutorial is available here: [Try Git][try]
 [try]: http://try.github.com/levels/1/challenges/1
 
 Create a Github account
@@ -34,8 +32,8 @@ If you do not alrwady have a Github account, create one for free. Just go to:
 Fork repository
 ---------------
 
-Go to CodeBase https://github.com/phpdevelopersindia/CodeHouse[codehouse] and fork the repo
-[codehouse]https://github.com/phpdevelopersindia/CodeHouse
+Go to CodeHouse [https://github.com/phpdevelopersindia/CodeHouse][codehouse] and fork the repo
+[codehouse]: https://github.com/phpdevelopersindia/CodeHouse
 
 ![fork_codehouse][fork]
 [fork]: https://raw.github.com/pontikis/CodeHouse/master/DOCS/fork_codehouse.png
@@ -52,8 +50,8 @@ Watch repository
 
 If you want to receive email notifications for changes in this repository, press the watch button to Watch this repo:
 
-Go to CodeBase https://github.com/phpdevelopersindia/CodeHouse[codehouse] and press the watch button:
-[codehouse]https://github.com/phpdevelopersindia/CodeHouse
+Go to CodeHouse [https://github.com/phpdevelopersindia/CodeHouse][codehouse] and press the watch button:
+[codehouse]: https://github.com/phpdevelopersindia/CodeHouse
 
 ![watch_codehouse][watch]
 [watch]: https://raw.github.com/pontikis/CodeHouse/master/DOCS/watch_codehouse.png
