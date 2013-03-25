@@ -90,8 +90,8 @@ Pull request
 Some restrictions
 ----------------
 
-Please, do not make modifications in main README.md file. Only group admin will apply cahnes to theis file.
-
+Please, do not make modifications in main [README.md][readme] file. Only group admin will make changes to this file.
+[readme]: https://github.com/phpdevelopersindia/CodeHouse/blob/master/README.md
 
 
 **Enjoy social coding!**
