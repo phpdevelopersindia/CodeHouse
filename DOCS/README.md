@@ -86,7 +86,7 @@ In order to be able to get source repository contents (not only the forked one),
 
 Now, giving the following command:
 
-         git remote -v
+    git remote -v
 
 you will get something like:
 
@@ -101,26 +101,27 @@ Please, note that "origin" is the forked repository (YOUR_USERNAME/CodeHouse) an
 Update original repository
 --------------------------
 
+
     cd /path/to/your/projects/CodeHouse
-    git fetch
+    git fetch upstream
     git merge upstream/master
-
-
-
-
-
 
 
 Share your code
 ----------------
 
+After creating your changes to local repo, you have to add and commit them. Afterwards you have to push them to forked repository.
+
     cd /path/to/your/projects/CodeHouse
     git push origin master
+
+These changes will not affect the original repository, until you submit a Pull request:
 
 
 Pull request
 -------------
 
+Go to forked repository and press the Pull request button
 
 
 Some restrictions
