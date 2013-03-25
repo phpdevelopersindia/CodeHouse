@@ -24,7 +24,7 @@ An excellent interactive tutorial is available here: [Try Git][try]
 Create a Github account
 ------------------------
 
-If you do not alrwady have a Github account, create one for free. Just go to:
+If you do not already have a Github account, create one for free. Just go to:
 
 [https://github.com/][github]
 [github]: https://github.com
