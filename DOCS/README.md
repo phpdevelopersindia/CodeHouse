@@ -86,4 +86,12 @@ Pull request
 -------------
 
 
-Enjoy social coding!
+
+Some restrictions
+----------------
+
+Please, do not make modifications in main README.md file. Only group admin will apply cahnes to theis file.
+
+
+
+**Enjoy social coding!**
