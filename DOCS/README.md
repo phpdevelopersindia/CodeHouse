@@ -133,7 +133,29 @@ These changes will not affect the original repository, until you submit a Pull r
 Pull request
 -------------
 
-Go to forked repository and press the Pull request button
+Go to forked repository and press the Pull request button:
+
+![pull_request_btn][pr_btn]
+[pr_btn]: https://raw.github.com/pontikis/CodeHouse/master/DOCS/pull_request_button.png
+
+Then submit your request:
+
+![pull_request_submit][pr_submit]
+[pr_submit]: https://raw.github.com/pontikis/CodeHouse/master/DOCS/pull_request_submit.png
+
+Then, just wait for acceptance of your request from repository owner:
+
+Repository owner can see pull requests as follows:
+
+![pull_request_admin][pr_admin]
+[pr_admin]: https://raw.github.com/pontikis/CodeHouse/master/DOCS/pull_request_admin.png
+
+and can accept a request:
+
+![pull_request_submit][pr_accept]
+[pr_accept]: https://raw.github.com/pontikis/CodeHouse/master/DOCS/pull_request_accept.png
+
+Afterwards, your changes are available to original repository.
 
 
 Some restrictions
