@@ -7,7 +7,7 @@ Author [Christos Pontikis][AUTHOR]
 [AUTHOR]: http://www.pontikis.net
 
 License [MIT][mit]
-[mit]: https://raw.github.com/pontikis/jui_datagrid/master/MIT_LICENSE
+[mit]: https://raw.github.com/pontikis/CodeHouse/master/MIT_LICENSE
 
 Last updated: March 25, 2013
 
