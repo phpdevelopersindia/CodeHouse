@@ -63,4 +63,27 @@ Clone repository
 
 In order to get repository contents to your hard disk, you have to clone repo (this process will be performed once):
 
+    cd /path/to/your/projects
+    git clone git@github.com:phpdevelopersindia/CodeHouse.git
 
+
+Update repository
+----------------
+
+    cd /path/to/your/projects/CodeHouse
+    git fetch
+    git merge origin
+
+
+Share your code
+----------------
+
+    cd /path/to/your/projects/CodeHouse
+    git push origin master
+
+
+Pull request
+-------------
+
+
+Enjoy social coding!
