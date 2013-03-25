@@ -45,11 +45,13 @@ After you fork the repo, this will appear to your Github profile as a forked rep
 ![fork_codehouse][forked]
 [forked]: https://raw.github.com/pontikis/CodeHouse/master/DOCS/forked_codehouse.png
 
+WARNING: the forked repository is your repository, not the original one. Any changes made to forked repository will not appear to source repository, until you make a Pull request and the repository owner accept it and merge your changes (see below).
+
 
 Watch repository
 ---------------
 
-If you want to receive email notifications for changes in this repository, press the watch button to Watch this repo:
+If you want to receive email notifications for changes in this repository (recommended), press the watch button to Watch this repo:
 
 Go to CodeHouse [https://github.com/phpdevelopersindia/CodeHouse][codehouse] and press the watch button:
 [codehouse]: https://github.com/phpdevelopersindia/CodeHouse
@@ -58,21 +60,55 @@ Go to CodeHouse [https://github.com/phpdevelopersindia/CodeHouse][codehouse] and
 [watch]: https://raw.github.com/pontikis/CodeHouse/master/DOCS/watch_codehouse.png
 
 
-Clone repository
----------------
+Clone forked repository
+-----------------------
 
 In order to get repository contents to your hard disk, you have to clone repo (this process will be performed once):
 
     cd /path/to/your/projects
-    git clone git@github.com:phpdevelopersindia/CodeHouse.git
+    git clone git@github.com:YOUR_USERNAME_HERE/CodeHouse.git
 
 
-Update repository
-----------------
+Giving the following command:
+
+    git remote -v
+
+you will get something like:
+
+    origin	git@github.com:pontikis/CodeHouse.git (fetch)
+    origin	git@github.com:pontikis/CodeHouse.git (push)
+
+In order to be able to get source repository contents (not only the forked one), add a remote point to the original repository, as follows:
+
+    git remote add upstream git@github.com:phpdevelopersindia/CodeHouse.git
+
+(where upstream points to original repo)
+
+Now, giving the following command:
+
+         git remote -v
+
+you will get something like:
+
+    origin	git@github.com:pontikis/CodeHouse.git (fetch)
+    origin	git@github.com:pontikis/CodeHouse.git (push)
+    upstream	git@github.com:phpdevelopersindia/CodeHouse.git (fetch)
+    upstream	git@github.com:phpdevelopersindia/CodeHouse.git (push)
+
+Please, note that "origin" is the forked repository (YOUR_USERNAME/CodeHouse) and "upstream" is the original repo (phpdevelopersindia/CodeHouse)
+
+
+Update original repository
+--------------------------
 
     cd /path/to/your/projects/CodeHouse
     git fetch
-    git merge origin
+    git merge upstream/master
+
+
+
+
+
 
 
 Share your code
