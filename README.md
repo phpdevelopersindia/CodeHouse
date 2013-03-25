@@ -1,15 +1,26 @@
 CodeHouse
 =========
 
-Keep all the code examples here.
+Welcome to [PHP Developers India][pdvlin] CodeHouse Github repository.
+[pdvlin]: http://www.facebook.com/groups/pdvlin
 
-Starter Guides/ Tutorials
-==========================
+We are keeping all the code examples submitted by Group members here.
 
-<ul>
-  <li>https://help.github.com/categories/63/articles</li>
-  <li>http://www.codeschool.com/courses/try-git</li>
-  <li>http://learn.github.com/p/intro.html</li>
-  <li>http://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html</li>
-  <li>https://tutsplus.com/course/git-essentials/</li>
-</ul>
+Contribute
+---------
+
+In order to collaborate, please, read the [following guide][guide]
+[guide]: https://github.com/phpdevelopersindia/CodeHouse/tree/master/DOCS
+
+Code submitted
+--------------
+
+Available code (chronological order)
+
+* Mar 25, 2013 [Creating Dynamic XML Sitemaps using PHP][php-sitemaps] (by [Christos Pontikis][pontikis])
+* Mar 25, 2013 [PHP Login using Facebook][php-fb-login] (by [David Carr][carr])
+
+[php-sitemaps]: https://github.com/phpdevelopersindia/CodeHouse/tree/master/creating-dynamic-xml-sitemaps-using-php
+[pontikis]: http://www.pontikis.net
+[php-fb-login]: https://github.com/phpdevelopersindia/CodeHouse/tree/master/facebook
+[carr]: http://www.daveismyname.com/
