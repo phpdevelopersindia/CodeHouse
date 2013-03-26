@@ -1,0 +1,15 @@
+p {
+    font-size: 14px;
+    font-family: "Trebuchet MS", Arial, Verdana, sans-serif;
+}
+
+#dates {
+    padding: 10px;
+    font-size: 12px;
+    font-family: "Trebuchet MS", Arial, Verdana, sans-serif;
+}
+
+/* DATEPICKER FONT-SIZE ----------------------------------------------------- */
+div.ui-datepicker {
+    font-size: 12px;
+}
