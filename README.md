@@ -9,8 +9,7 @@ We are keeping all the code examples submitted by Group members here.
 Contribute
 ---------
 
-In order to collaborate, please, read the [following guide][guide]
-[guide]: https://github.com/phpdevelopersindia/CodeHouse/tree/master/DOCS
+In order to collaborate, please, read the following guide: https://github.com/phpdevelopersindia/CodeHouse/tree/master/DOCS
 
 Code submitted
 --------------
